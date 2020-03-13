@@ -1,4 +1,4 @@
-# Zebrafish_behaviour
+# Zebrafish behaviour
 Data analysis of zebrafish behaviour: Forced Light-Dark - Novel tank diving - Habituation to startle
 
 ###  FORCED LIGHT-DARK (Rscript: Light-Dark.R) ###
