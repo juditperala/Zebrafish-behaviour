@@ -1,7 +1,7 @@
 # Zebrafish_behaviour
 Data analysis of zebrafish behaviour: Forced Light-Dark - Novel tank diving - Habituation to startle
 
-###  FORCED LIGHT-DARK ###
+###  FORCED LIGHT-DARK (Rscript: Light-Dark.R) ###
 
 We conducted forced Light/Dark tests in five days post fertilization larvae, between 9 am and 4 pm. We placed larvae in 48-well plates and to reduce stress due to manipulation, we let them acclimate for at least one hour in ambient light before testing.
 
